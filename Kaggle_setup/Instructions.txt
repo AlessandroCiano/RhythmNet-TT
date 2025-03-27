@@ -1,0 +1,7 @@
+First, edit the Initial_Setup.sh file and change the directory that it takes the .json file from to be your own directory, do not change the second directory that it copies the file to.
+
+Then, run "bash Initial_setup.sh" on the command line
+
+Now, you edit download_file.py to change the download_path to be the path to your MLP_CW file on your device.
+
+Then, save your changes and run "python download_file.py" in the command line.
